@@ -8,4 +8,3 @@ Authors:
 Ionut Danci-Bumbea
 Ilea Alexandru
 Richard Retezi
-Leonard Hirja
